@@ -2,21 +2,18 @@
   
   <my-header />
   <div class="">
-    <router-view></router-view>
+    <Router-view></Router-view>
   </div>
-  <my-body />
-  <welcome-item />
-  <my-end />
+  <my-end class="mt-20" />
 
 </template>
 
 <script>
+import { RouterLink, RouterView } from 'vue-router'
 import MyHeader from './components/MyHeader.vue';
-import MyBody from "./components/MyBody.vue";
-import WelcomeItem from "./components/WelcomeItem.vue";
 import MyEnd from "./components/MyEnd.vue";
 export default {
-  components: { MyHeader, MyBody, WelcomeItem , MyEnd},
+  components: { MyHeader, MyEnd},
 
 }
 </script>

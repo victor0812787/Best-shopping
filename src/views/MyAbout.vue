@@ -25,10 +25,10 @@
 
         <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Save Thousands on Your Next Vehicle</h5>
         <p class="mb-3 text-lg font-normal text-gray-700 dark:text-gray-400">
-          Save thousands on your next vehicle through AutoBidMaster and <strong>pay the dealer price! </strong>
+          Save thousands on your next vehicle through Layouts and <strong>pay the dealer price! </strong>
           Our streamlined technology platform allows our customers with registration, vehicle 
           search, financing, bidding, and shipping the vehicle directly at your doorstep, making 
-          AutoBidMaster the one-stop shop to buy vehicles from auto auctions.
+          Layouts the one-stop shop to buy vehicles from auto auctions.
         </p>
 
       </div>
@@ -64,11 +64,11 @@
     <div class="block">
 
       <div class="block text-center">
-        <p class="mb-3 text-1xl font-semibold">Quick Facts About AutoBidMaster</p>
-        <p class="mb-2 text-base font-normal">Founded in 2009, Based in Portland, OR</p>
+        <p class="mb-3 text-1xl font-semibold">Quick Facts About Layouts</p>
+        <p class="mb-2 text-base font-normal">Founded in 2021, Based in Nigeria, OR</p>
       </div>
 
-      <div class="lg:flex justify-center items-center mt-28">
+      <div class="lg:flex justify-center items-center">
 
         <div class="block text-center mx-auto my-3">
           <h4 class="mb-3 text-1xl font-semibold italic">Global Presence</h4>
@@ -97,7 +97,6 @@
 
 <script>
 export default {
-
 }
 </script>
 
