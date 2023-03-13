@@ -1,6 +1,6 @@
 <template>
   <my-body />
-  <welcome-item class="mt-5" />
+  <welcome-item class="mt-5"/>
 </template>
 
 <script>
